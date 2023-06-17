@@ -6,7 +6,7 @@ import { Register } from "./Register";
 import { useState } from 'react';
 
 function App() {
-  <div className='bg'></div>
+  <div className="bg"></div>
   const [CurrentForm, setCurrentForm] = useState('login');
   const toggleForm = (formName) => {
     setCurrentForm(formName);
@@ -19,6 +19,7 @@ function App() {
       }
 
     </div>
+   
     
   );
   

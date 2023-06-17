@@ -11,11 +11,14 @@ export const Register = (props)  => {
         e.preventDefault();
         console.log(email);
         }
+        
 
     return (
+       
         <div className="auth-form-container">
+           
         <form className="register-form"onSubmit={handleSubmit}>
-            <h2>Register</h2>
+            <h1>Register</h1>
 
         <label htmlFor="name">Name</label>
         <input type="name" placeholder="Full Name" id="name" name= "name"/>
@@ -31,7 +34,10 @@ export const Register = (props)  => {
         <button type="Submit">Register</button>
 
     </form>
+    
     <button className="link-btn" onClick={() => props.onFormSwitch('login')}>Already have an account? Login here.</button>
+    
     </div>
+    
     )
 }

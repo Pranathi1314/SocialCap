@@ -12,7 +12,7 @@ export const Login = (props)  => {
         
         <div className="auth-form-container">
     <form className="login-form" onSubmit={handleSubmit}>
-       <h2>Log-In</h2>
+       <h1>Log-In</h1>
         <label htmlFor="email">Email</label>
         <input value={email} type="email" placeholder="Email" id="email" name= "email"/>
        

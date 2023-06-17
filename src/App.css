@@ -6,6 +6,7 @@
   justify-content: center;
   background-image: url(./bg.jpeg);
   
+  
 }
 .bg {
   background-image: url(./bg.jpeg);
@@ -18,14 +19,25 @@
  flex-direction: column;
  
  
+ 
 }
+.logo{
+  background-image: url('./logo.png');
+  margin-top: ;
+}
+
 
 @media screen and (min-width: 600px) {
   .auth-form-container {
-    padding: 3rem;
-    border: 1px solid white;
+    background: transparent;
+    position: relative;
+    backdrop-filter: blur(20px);
+    width: 330px;
+    padding: 2rem;
+    border: 1px solid black;
     border-radius: 10px;
     margin: 0.5rem;
+    
   
   
   }
