@@ -1,0 +1,191 @@
+.login-background-14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 832px;
+  object-fit: cover;
+}
+.login-page-child {
+  position: absolute;
+  top: 194px;
+  left: 365px;
+  background-color: var(--color-gray-100);
+  width: 545px;
+  height: 542px;
+}
+.emojione-monotoneletter-s-icon12 {
+  position: absolute;
+  top: 34px;
+  left: 40px;
+  width: 136px;
+  height: 117px;
+  overflow: hidden;
+}
+.email,
+.login2,
+.twilsonpicklesgmailcom {
+  position: absolute;
+  top: 212px;
+  left: 574px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 132px;
+  height: 55px;
+}
+.email,
+.twilsonpicklesgmailcom {
+  top: 308px;
+  left: 424px;
+  font-size: var(--font-size-6xl);
+  width: 101px;
+  height: 21px;
+}
+.twilsonpicklesgmailcom {
+  top: 362px;
+  font-size: var(--font-size-xl);
+  width: 353px;
+  height: 36px;
+}
+.login-page-inner,
+.login-page-item {
+  position: absolute;
+  top: 392px;
+  left: 422px;
+  width: 433.01px;
+  height: 6.03px;
+}
+.login-page-inner {
+  top: 523px;
+}
+.div20,
+.forgot-password,
+.password5 {
+  position: absolute;
+  top: 433px;
+  left: 424px;
+  font-size: var(--font-size-6xl);
+  display: inline-block;
+  width: 152px;
+  height: 25px;
+}
+.div20,
+.forgot-password {
+  top: 494px;
+  font-size: var(--font-size-xl);
+  width: 128px;
+  height: 18px;
+}
+.forgot-password {
+  top: 543px;
+  left: 692px;
+  font-size: var(--font-size-lg);
+  width: 183px;
+  height: 21px;
+}
+.login-page-child1 {
+  position: absolute;
+  top: 595px;
+  left: 422px;
+  background-color: var(--color-dimgray);
+  width: 433px;
+  height: 43px;
+}
+.login3 {
+  position: absolute;
+  top: 597px;
+  left: 586px;
+  font-size: var(--font-size-10xl);
+  color: var(--color-white);
+  display: inline-block;
+  width: 106px;
+  height: 41px;
+}
+.icbaseline-lock-icon2,
+.riclose-line-icon9 {
+  position: absolute;
+  top: 486px;
+  left: 819px;
+  width: 30px;
+  height: 30px;
+  overflow: hidden;
+}
+.riclose-line-icon9 {
+  top: 357px;
+  width: 33px;
+  height: 33px;
+}
+.dont-have-an {
+  position: absolute;
+  top: calc(50% + 241px);
+  left: calc(50% - 152px);
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  width: 218px;
+  height: 19px;
+}
+.epback-icon4 {
+  position: absolute;
+  top: 219px;
+  left: 382px;
+  width: 42px;
+  height: 42px;
+  overflow: hidden;
+}
+.contact1,
+.home1,
+.services1 {
+  position: absolute;
+  top: 66px;
+  left: 555.5px;
+  display: inline-block;
+  width: 114px;
+  height: 54px;
+}
+.contact1,
+.services1 {
+  left: 718.5px;
+  width: 154px;
+}
+.contact1 {
+  left: 921.5px;
+}
+.login5 {
+  margin: 0;
+}
+.login4 {
+  position: absolute;
+  top: 66px;
+  left: 1124.5px;
+  display: inline-block;
+  width: 116px;
+  height: 54px;
+}
+.login-page-child2,
+.register {
+  position: absolute;
+  top: 118px;
+  left: 1125px;
+  width: 100px;
+  height: 4px;
+}
+.register {
+  top: 656px;
+  left: 706px;
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  width: 90px;
+  height: 18px;
+  cursor: pointer;
+}
+.login-page {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

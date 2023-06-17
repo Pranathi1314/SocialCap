@@ -1,0 +1,259 @@
+.producer-accept-order-child {
+  position: absolute;
+  top: 0;
+  left: -3px;
+  background-color: var(--color-mediumaquamarine);
+  width: 1286px;
+  height: 138px;
+}
+.emojione-monotoneletter-s-icon3 {
+  position: absolute;
+  top: 19px;
+  left: 34px;
+  width: 108px;
+  height: 99px;
+  overflow: hidden;
+}
+.help3,
+.my-products {
+  position: absolute;
+  top: 75px;
+  left: 584px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.my-products {
+  top: 0;
+  left: 45px;
+  display: inline-block;
+  width: 225px;
+  height: 47px;
+  mix-blend-mode: normal;
+}
+.cart-icon {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 41px;
+  height: 43px;
+  overflow: hidden;
+}
+.my-products-parent {
+  position: absolute;
+  top: 75px;
+  left: 722px;
+  width: 270px;
+  height: 47px;
+  cursor: pointer;
+}
+.my-profile4 {
+  position: absolute;
+  top: 2px;
+  left: 40px;
+  display: inline-block;
+  width: 159px;
+  height: 39px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.person-icon2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 40px;
+  height: 41px;
+  overflow: hidden;
+}
+.my-profile-parent {
+  position: absolute;
+  top: 74px;
+  left: 1017px;
+  width: 199px;
+  height: 41px;
+  cursor: pointer;
+}
+.help-icon2,
+.producer-accept-order-item {
+  position: absolute;
+  top: 192px;
+  left: 0;
+  width: 1324px;
+  height: 51.5px;
+}
+.help-icon2 {
+  height: 3.41%;
+  width: 2.34%;
+  top: 9.74%;
+  right: 55.08%;
+  bottom: 86.86%;
+  left: 42.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.order-details {
+  position: absolute;
+  top: 198px;
+  left: 88px;
+  color: var(--color-black);
+}
+.producer-accept-order-inner {
+  position: absolute;
+  top: 294px;
+  left: 0;
+  background-color: var(--color-aquamarine);
+  width: 1280px;
+  height: 361px;
+}
+.item {
+  font-family: var(--font-montserrat);
+}
+.item-mango-pickle {
+  margin: 0;
+}
+.item-mango-container {
+  position: absolute;
+  top: 576px;
+  left: 144px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  display: inline-block;
+  width: 262px;
+  height: 73px;
+}
+.mango-3-icon {
+  position: absolute;
+  top: 313px;
+  left: 158px;
+  width: 234.97px;
+  height: 240px;
+  object-fit: cover;
+}
+.blank-line14 {
+  margin: 0;
+  font-size: var(--font-size-6xl);
+}
+.estimated-raw-materials-container {
+  position: absolute;
+  top: 322px;
+  left: 642px;
+  color: var(--color-black);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 395px;
+  height: 254px;
+  font-size: var(--font-size-9xl);
+}
+.accept1-child1 {
+  border-radius: var(--br-6xl);
+  background-color: var(--color-mediumaquamarine);
+}
+.accept1-child1,
+.accept13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 170px;
+  height: 73px;
+}
+.accept1-parent,
+.order-raw-materials-container {
+  position: absolute;
+  top: 7px;
+  left: 19px;
+}
+.accept1-parent {
+  top: 691px;
+  left: 1027px;
+  width: 170px;
+  height: 73px;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+}
+.vector-icon6 {
+  position: absolute;
+  top: 47%;
+  bottom: 49.4%;
+  overflow: hidden;
+}
+.vector-icon6,
+.vector-icon7,
+.vector-icon8 {
+  height: 3.61%;
+  width: 2.34%;
+  right: 29.14%;
+  left: 68.52%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vector-icon7 {
+  position: absolute;
+  top: 51.32%;
+  bottom: 45.07%;
+  overflow: hidden;
+}
+.vector-icon8 {
+  top: 55.65%;
+  bottom: 40.75%;
+}
+.phplus-fill-icon,
+.vector-icon8,
+.vector-icon9 {
+  position: absolute;
+  overflow: hidden;
+}
+.vector-icon9 {
+  height: 3.61%;
+  width: 2.34%;
+  top: 59.98%;
+  right: 29.14%;
+  bottom: 36.42%;
+  left: 68.52%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.phplus-fill-icon {
+  top: 391px;
+  left: 990px;
+  width: 42px;
+  height: 42px;
+}
+.back-icon,
+.phplus-fill-icon1,
+.phplus-fill-icon2,
+.phplus-fill-icon3 {
+  position: absolute;
+  top: 427px;
+  left: 990px;
+  width: 42px;
+  height: 42px;
+  overflow: hidden;
+}
+.back-icon,
+.phplus-fill-icon2,
+.phplus-fill-icon3 {
+  top: 463px;
+}
+.back-icon,
+.phplus-fill-icon3 {
+  top: 499px;
+}
+.back-icon {
+  height: 4.57%;
+  width: 3.44%;
+  top: 23.56%;
+  right: 95.63%;
+  bottom: 71.88%;
+  left: 0.94%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.producer-accept-order {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

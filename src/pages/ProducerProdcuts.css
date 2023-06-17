@@ -1,0 +1,221 @@
+.producer-prodcuts-child {
+  position: absolute;
+  top: 0;
+  left: -3px;
+  background-color: var(--color-mediumaquamarine);
+  width: 1286px;
+  height: 138px;
+}
+.producer-prodcuts-item {
+  position: absolute;
+  top: 127px;
+  left: 730px;
+  border-top: 6px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 236px;
+  height: 6px;
+}
+.emojione-monotoneletter-s-icon8 {
+  position: absolute;
+  top: 19px;
+  left: 34px;
+  width: 108px;
+  height: 99px;
+  overflow: hidden;
+}
+.help7,
+.my-products3,
+.my-profile10 {
+  position: absolute;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.help7 {
+  top: 75px;
+  left: 584px;
+}
+.my-products3,
+.my-profile10 {
+  display: inline-block;
+}
+.my-products3 {
+  top: 75px;
+  left: 767px;
+  width: 225px;
+  height: 47px;
+  mix-blend-mode: normal;
+}
+.my-profile10 {
+  top: 76px;
+  left: 1057px;
+  width: 159px;
+  height: 39px;
+}
+.mango-1-icon {
+  position: absolute;
+  top: 288px;
+  left: 97px;
+  width: 214px;
+  height: 207px;
+  object-fit: cover;
+}
+.div3,
+.div4 {
+  position: absolute;
+  top: 293px;
+  left: 54px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 67px;
+  height: 52px;
+}
+.div4 {
+  top: 556px;
+  left: 44px;
+}
+.ginger-1-icon5,
+.tomato-1-icon {
+  position: absolute;
+  top: 556px;
+  left: 97px;
+  width: 206px;
+  height: 194px;
+  object-fit: cover;
+}
+.ginger-1-icon5 {
+  top: 286px;
+  left: 1209px;
+  width: 7px;
+  height: 1px;
+}
+.group-child1,
+.my-products4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1280px;
+  height: 51.5px;
+}
+.my-products4 {
+  top: 6px;
+  left: 97px;
+  display: inline-block;
+  width: 306px;
+  height: 40px;
+}
+.vector-parent {
+  position: absolute;
+  top: 189px;
+  left: 0;
+  width: 1280px;
+  height: 51.5px;
+  color: var(--color-black);
+}
+.help-icon6 {
+  position: absolute;
+  height: 3.41%;
+  width: 2.34%;
+  top: 9.74%;
+  right: 55.08%;
+  bottom: 86.86%;
+  left: 42.58%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.cart-icon3,
+.person-icon6 {
+  position: absolute;
+  top: 74px;
+  left: 1017px;
+  width: 40px;
+  height: 41px;
+  overflow: hidden;
+}
+.cart-icon3 {
+  top: 76px;
+  left: 722px;
+  width: 41px;
+  height: 43px;
+}
+.name-mango-pickle {
+  margin: 0;
+}
+.market-price {
+  font-family: var(--font-montserrat);
+}
+.name-mango-container,
+.name-tomato-container {
+  position: absolute;
+  top: 286px;
+  left: 396px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 610px;
+  height: 209px;
+}
+.name-tomato-container {
+  top: 562px;
+  left: 387px;
+}
+.accept1-child6,
+.accept110,
+.accept18 {
+  position: absolute;
+  width: 170px;
+  height: 73px;
+}
+.accept1-child6 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-mediumaquamarine);
+}
+.accept110,
+.accept18 {
+  top: 355px;
+  left: 1055px;
+}
+.accept110 {
+  top: 607px;
+  left: 1051px;
+}
+.edit-details2,
+.edit-details3 {
+  position: absolute;
+  top: 358px;
+  left: 1050px;
+  font-size: var(--font-size-6xl);
+  text-align: center;
+  display: inline-block;
+  width: 179px;
+  height: 26px;
+}
+.edit-details3 {
+  top: 610px;
+  left: 1046px;
+}
+.mask-group-icon7 {
+  position: absolute;
+  height: 4.57%;
+  width: 3.44%;
+  top: 23.56%;
+  right: 95.63%;
+  bottom: 71.88%;
+  left: 0.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.producer-prodcuts {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 832px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
