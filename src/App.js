@@ -21,6 +21,17 @@ import SupplierLandingPage from "./pages/SupplierLandingPage";
 import ConsumerLandingPage from "./pages/ConsumerLandingPage";
 import Role from "./pages/Role";
 import LoginPage from "./pages/LoginPage";
+import ConsumerSearch from "./pages/ConsumerSearch";
+import ConsumerAbout from "./pages/ConsumerAbout";
+import ConsumerEditDetails from "./pages/ConsumerEditDetails";
+import ConsumerMyCart from "./pages/ConsumerMyCart";
+import ConsumerMyProfile from "./pages/ConsumerMyProfile";
+import ConsumerNewBrands from "./pages/ConsumerNewBrands";
+import ConsumerPopularBranda from "./pages/ConsumerPopularBranda";
+import ConsumerPopularBrandsAmul from "./pages/ConsumerPopularBrandsAmul";
+import Offers from "./pages/Offers";
+import ConsumerSocietySignIn from "./pages/ConsumerSocietySignIn";
+
 import { useEffect } from "react";
 
 function App() {
@@ -99,6 +110,46 @@ function App() {
         title = "";
         metaDescription = "";
         break;
+      case "/consumer-search":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/consumer-edit-details":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/consumer-my-cart":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/consumer-about":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/consumer-my-profile":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/consumer-new-brands":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/consumer-popular-branda":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/consumer-popular-brands-amul":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/consumer-society-sign-in":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/offers":
+        title = "";
+        metaDescription = "";
+        break;
       case "/role":
         title = "";
         metaDescription = "";
@@ -143,6 +194,16 @@ function App() {
       <Route path="/producer-landing-page" element={<ProducerLandingPage />} />
       <Route path="/supplier-landing-page" element={<SupplierLandingPage />} />
       <Route path="/consumer-landing-page" element={<ConsumerLandingPage />} />
+      <Route path="/consumer-search" element={<ConsumerSearch/>} />
+      <Route path="/consumer-edit-details" element={<ConsumerEditDetails/>} />
+      <Route path="/consumer-my-cart" element={<ConsumerMyCart/>} />
+      <Route path="/consumer-about" element={<ConsumerAbout/>} />
+      <Route path="/consumer-my-profile" element={<ConsumerMyProfile/>} />
+      <Route path="/consumer-new-brands" element={<ConsumerNewBrands/>} />
+      <Route path="/consumer-popular-branda" element={<ConsumerPopularBranda/>} />
+      <Route path="/consumer-new-brands" element={<ConsumerPopularBrandsAmul/>} />
+      <Route path="/offers" element={<Offers/>} />
+      <Route path="/consumer-society-sign-in" element={<ConsumerSocietySignIn/>} />
       <Route path="/role" element={<Role />} />
       <Route path="/login-page" element={<LoginPage />} />
     </Routes>
