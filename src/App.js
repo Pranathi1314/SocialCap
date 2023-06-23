@@ -16,6 +16,7 @@ import ProducerEditProfile from "./pages/ProducerEditProfile";
 import ProducerAcceptOrder from "./pages/ProducerAcceptOrder";
 import SupplierAcceptOrder from "./pages/SupplierAcceptOrder";
 import ProducerProfile from "./pages/ProducerProfile";
+import AddProducts from "./pages/AddProducts";
 import ProducerLandingPage from "./pages/ProducerLandingPage";
 import SupplierLandingPage from "./pages/SupplierLandingPage";
 import ConsumerLandingPage from "./pages/ConsumerLandingPage";
@@ -75,6 +76,10 @@ function App() {
         metaDescription = "";
         break;
       case "/producer-prodcuts":
+        title = "";
+        metaDescription = "";
+        break;
+      case "/add-products":
         title = "";
         metaDescription = "";
         break;
@@ -192,6 +197,7 @@ function App() {
       <Route path="/supplier-accept-order" element={<SupplierAcceptOrder />} />
       <Route path="/producer-profile" element={<ProducerProfile />} />
       <Route path="/producer-landing-page" element={<ProducerLandingPage />} />
+      <Route path="/add-products" element={<AddProducts/>} />
       <Route path="/supplier-landing-page" element={<SupplierLandingPage />} />
       <Route path="/consumer-landing-page" element={<ConsumerLandingPage />} />
       <Route path="/consumer-search" element={<ConsumerSearch/>} />
