@@ -1,0 +1,144 @@
+.loginBackground1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1442px;
+  height: 1024px;
+  object-fit: cover;
+}
+.roleChild {
+  position: absolute;
+  top: 222px;
+  left: 321px;
+  background-color: var(--color-gray-100);
+  width: 899px;
+  height: 564px;
+}
+.emojioneMonotoneletterSIcon {
+  position: absolute;
+  top: 34px;
+  left: 40px;
+  width: 136px;
+  height: 117px;
+  overflow: hidden;
+}
+.signUp,
+.whatsYourRole {
+  position: absolute;
+  color: var(--color-black);
+  display: inline-block;
+}
+.signUp {
+  top: 227px;
+  left: 689px;
+  font-size: var(--font-size-21xl);
+  width: 163px;
+  height: 55px;
+}
+.whatsYourRole {
+  top: 324px;
+  left: 351px;
+  font-weight: 600;
+  width: 310px;
+  height: 21px;
+}
+.epbackIcon,
+.notoV1womanFarmerIcon {
+  position: absolute;
+  top: 234px;
+  left: 341px;
+  width: 42px;
+  height: 42px;
+  overflow: hidden;
+}
+.notoV1womanFarmerIcon {
+  top: 395px;
+  left: 715px;
+  width: 150px;
+  height: 150px;
+}
+.twemojifamilyIcon,
+.twemojimanOfficeWorkerLighIcon {
+  position: absolute;
+  top: 409px;
+  left: 383px;
+  width: 140px;
+  height: 140px;
+  overflow: hidden;
+}
+.twemojimanOfficeWorkerLighIcon {
+  top: 404px;
+  left: 990px;
+  width: 145px;
+  height: 145px;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-dimgray);
+  width: 169px;
+  height: 43px;
+}
+.producer {
+  position: absolute;
+  top: 8px;
+  left: 26px;
+  font-weight: 600;
+  display: inline-block;
+  width: 119.63px;
+  height: 35px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 593px;
+  left: 973px;
+  width: 169px;
+  height: 43px;
+  cursor: pointer;
+}
+.consumer {
+  position: absolute;
+  top: 8px;
+  left: 20px;
+  font-weight: 600;
+  display: inline-block;
+  width: 143px;
+  height: 35px;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 593px;
+  left: 371px;
+  width: 169px;
+  height: 43px;
+  cursor: pointer;
+}
+.supplier {
+  position: absolute;
+  top: 8px;
+  left: 32px;
+  font-weight: 600;
+  display: inline-block;
+  width: 119.63px;
+  height: 35px;
+}
+.rectangleContainer {
+  position: absolute;
+  top: 597px;
+  left: 691px;
+  width: 169px;
+  height: 43px;
+  cursor: pointer;
+}
+.role {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

@@ -1,0 +1,253 @@
+.consumerMyProfileChild {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  background-color: var(--color-mediumaquamarine);
+  width: 1525px;
+  height: 138px;
+}
+.editDetailsGrpChild {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  background-color: var(--color-mediumaquamarine);
+  width: 1440px;
+  height: 138px;
+}
+.editDetailsGrpChild {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-6xl);
+}
+.edit {
+  margin: 0;
+}
+.editDetails {
+  position: absolute;
+  height: 35.62%;
+  width: 93.72%;
+  top: 10.96%;
+  left: 0;
+  display: inline-block;
+}
+.editDetailsGrp {
+  position: absolute;
+  top: 829px;
+  left: 39px;
+  width: 170px;
+  height: 73px;
+  cursor: pointer;
+  text-align: center;
+}
+.logOut {
+  position: absolute;
+  height: 35.62%;
+  width: 93.72%;
+  top: 32.88%;
+  left: 2.94%;
+  display: inline-block;
+}
+.logoutButton {
+  position: absolute;
+  top: 826px;
+  left: 1280px;
+  width: 170px;
+  height: 73px;
+  cursor: pointer;
+  text-align: center;
+}
+.consumerMyProfileItem {
+  position: absolute;
+  top: 185px;
+  left: -71px;
+  width: 1580px;
+  height: 68.5px;
+  right: 250px;
+}
+.personIcon {
+  position: absolute;
+  top: 50px;
+  left: 50%;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.vectorIcon {
+  position: absolute;
+  top: 50px;
+  left: 500px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.vectorIcon {
+  height: 3.7%;
+  width: 2.34%;
+  top: 4%;
+  right: 15.36%;
+  bottom: 92.3%;
+  left: 82.29%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.myProfile {
+  position: absolute;
+  top: 195px;
+  left: 400px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+}
+.consumerMyProfileInner,
+.rectangleDiv {
+  position: absolute;
+  top: 102px;
+  left: 1222px;
+  width: 205px;
+  height: 6px;
+}
+.rectangleDiv {
+  top: 295px;
+  left: -37px;
+  background-color: var(--color-aquamarine);
+  width: 1556px;
+  height: 484px;
+}
+.nameSwarnikaContainer {
+  position: absolute;
+  top: 378px;
+  left: 129px;
+  color: var(--color-black);
+  white-space: pre-wrap;
+  display: inline-block;
+  width: 427px;
+  height: 275px;
+}
+.company21Icon {
+  position: absolute;
+  top: 366px;
+  left: 1083px;
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+}
+.maskGroupIcon,
+.vectorIcon1 {
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.maskGroupIcon {
+  position: absolute;
+  height: 3%;
+  width: 2%;
+  top: 19.14%;
+  right: 95.56%;
+  bottom: 76.38%;
+  left: 1.04%;
+  cursor: pointer;
+}
+.vectorIcon1 {
+  height: 3.77%;
+  width: 2.45%;
+  top: 4.5%;
+  right: 52.2%;
+  bottom: 90.86%;
+  left: 680px;
+}
+.about,
+.about1,
+.vectorIcon1 {
+  position: absolute;
+}
+.about1 {
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.about {
+  top: 52px;
+  left: 504px;
+  width: 100px;
+  height: 39px;
+  cursor: pointer;
+  font-size: var(--font-size-13xl);
+}
+.iconQuestionMarkCircle {
+  position: absolute;
+  height: 5.22%;
+  width: 3.36%;
+  top: 4.2%;
+  right: 34.89%;
+  bottom: 90.58%;
+  left: 22.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.emojioneMonotoneletterSIcon {
+  position: absolute;
+  top: 22px;
+  left: 17px;
+  width: 139.39px;
+  height: 116.36px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.cartIcon {
+  position: absolute;
+  top: 45px;
+  left: 887px;
+  width: 41px;
+  height: 43px;
+  overflow: hidden;
+}
+.myProfile2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0%;
+  display: inline-block;
+}
+.myCart,
+.myProfile1,
+.search {
+  position: absolute;
+  top: 41px;
+  left: 1220px;
+  width: 218px;
+  height: 47px;
+  cursor: pointer;
+  font-size: 38.79px;
+}
+.myCart,
+.search {
+  top: 43px;
+  left: 970px;
+  width: 159px;
+  height: 33px;
+}
+.search {
+  height: 5.65%;
+  width: 10.39%;
+  top: 3.8%;
+  left: 740px;
+  display: inline-block;
+  text-shadow: 0 4.848405838012695px 4.85px rgba(0, 0, 0, 0.25);
+}
+.consumerMyProfile {
+  position: relative;
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}

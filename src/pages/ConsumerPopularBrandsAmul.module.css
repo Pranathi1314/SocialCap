@@ -1,0 +1,572 @@
+.vectorIcon {
+  position: absolute;
+  height: 10.82%;
+  width: 8.42%;
+  top: 0.72%;
+  right: 91.03%;
+  bottom: 88.46%;
+  left: 0.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.consumerPopularBrandsAmulChild {
+  position: absolute;
+  height: 15.14%;
+  width: 100.23%;
+  top: 0;
+  right: -0.23%;
+  bottom: 84.86%;
+  left: 0;
+  background-color: var(--color-mediumaquamarine);
+}
+.groupChild {
+  position: absolute;
+  height: 97.58%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 2.42%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.amul {
+  position: absolute;
+  height: 75.81%;
+  width: 10.54%;
+  top: 24.19%;
+  left: 46.37%;
+  display: inline-block;
+}
+.vectorParent {
+  position: absolute;
+  height: 7.45%;
+  width: 76.33%;
+  top: 17.19%;
+  right: 0;
+  bottom: 75.36%;
+  left: 23.67%;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: var(--font-size-13xl);
+}
+.consumerPopularBrandsAmulInner,
+.consumerPopularBrandsAmulItem {
+  position: absolute;
+  height: 42.55%;
+  width: 22.66%;
+  top: 27.52%;
+  right: 76.33%;
+  bottom: 29.93%;
+  left: 1.02%;
+  background-color: var(--color-gainsboro);
+}
+.consumerPopularBrandsAmulInner {
+  height: 9.38%;
+  top: 37.38%;
+  bottom: 53.25%;
+  background-color: var(--color-mediumaquamarine);
+}
+.optons,
+.optons1,
+.optons2,
+.optons3 {
+  position: absolute;
+  height: 2.76%;
+  width: 11.25%;
+  top: 63.1%;
+  left: 8.28%;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+  display: inline-block;
+}
+.optons1,
+.optons2,
+.optons3 {
+  top: 53.73%;
+}
+.optons2,
+.optons3 {
+  top: 43.03%;
+}
+.optons3 {
+  top: 34.25%;
+}
+.image15Icon,
+.image5Icon,
+.image6Icon,
+.image7Icon,
+.image8Icon {
+  position: absolute;
+  height: 6.97%;
+  width: 4.3%;
+  top: 58.53%;
+  right: 93.36%;
+  bottom: 34.5%;
+  left: 2.34%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image15Icon,
+.image5Icon,
+.image6Icon,
+.image7Icon {
+  top: 48.56%;
+  right: 93.13%;
+  bottom: 44.47%;
+  left: 2.58%;
+}
+.image15Icon,
+.image5Icon,
+.image6Icon {
+  top: 38.58%;
+  bottom: 54.45%;
+}
+.image15Icon,
+.image6Icon {
+  top: 28.73%;
+  bottom: 64.3%;
+}
+.image15Icon {
+  height: 27.04%;
+  width: 17.58%;
+  top: 27.52%;
+  right: 58.75%;
+  bottom: 45.43%;
+  left: 23.67%;
+}
+.amulMilk,
+.rs56l {
+  position: absolute;
+  height: 5.65%;
+  width: 10.7%;
+  top: 52.4%;
+  left: 28.36%;
+  display: inline-block;
+}
+.rs56l {
+  height: 2.4%;
+  width: 6.09%;
+  top: 54.93%;
+  left: 28.98%;
+}
+.amulGhee,
+.rs110,
+.rs200,
+.rs40,
+.rs4001kg,
+.rs401,
+.rs402,
+.rs50 {
+  position: absolute;
+  height: 2.4%;
+  width: 8.98%;
+  top: 91.59%;
+  left: 28.13%;
+  display: inline-block;
+}
+.amulGhee,
+.rs110,
+.rs200,
+.rs40,
+.rs401,
+.rs402,
+.rs50 {
+  left: 48.2%;
+}
+.amulGhee,
+.rs110,
+.rs200,
+.rs40,
+.rs401,
+.rs402 {
+  left: 85.39%;
+}
+.amulGhee,
+.rs110,
+.rs40,
+.rs401,
+.rs402 {
+  left: 65.86%;
+}
+.amulGhee,
+.rs40,
+.rs401,
+.rs402 {
+  width: 6.09%;
+  top: 54.93%;
+  left: 47.97%;
+}
+.amulGhee,
+.rs401,
+.rs402 {
+  left: 66.17%;
+}
+.amulGhee,
+.rs402 {
+  left: 86.72%;
+}
+.amulGhee {
+  height: 5.65%;
+  width: 10.7%;
+  top: 88.7%;
+  left: 28.59%;
+}
+.amulButter,
+.amulCheese,
+.amulChocolate,
+.amulLassi,
+.amulLassi1,
+.amulPaneer {
+  position: absolute;
+  height: 5.65%;
+  width: 10.7%;
+  top: 89.06%;
+  left: 47.27%;
+  display: inline-block;
+}
+.amulButter,
+.amulCheese,
+.amulChocolate,
+.amulLassi1,
+.amulPaneer {
+  left: 63.67%;
+}
+.amulButter,
+.amulCheese,
+.amulChocolate,
+.amulLassi1 {
+  top: 88.7%;
+  left: 82.81%;
+}
+.amulButter,
+.amulCheese,
+.amulLassi1 {
+  top: 52.4%;
+  left: 47.27%;
+}
+.amulButter,
+.amulCheese {
+  top: 52.04%;
+  left: 65.16%;
+}
+.amulCheese {
+  top: 52.4%;
+  left: 85.16%;
+}
+.image18Icon,
+.image19Icon,
+.image20Icon {
+  position: absolute;
+  height: 19.35%;
+  width: 17.19%;
+  top: 30.65%;
+  right: 2.27%;
+  bottom: 50%;
+  left: 80.55%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image19Icon,
+.image20Icon {
+  height: 27.04%;
+  width: 17.58%;
+  top: 61.66%;
+  right: 58.75%;
+  bottom: 11.3%;
+  left: 23.67%;
+}
+.image20Icon {
+  height: 24.52%;
+  width: 15.7%;
+  top: 64.18%;
+  right: 41.88%;
+  left: 42.42%;
+}
+.image21Icon {
+  height: 23.2%;
+  width: 20.39%;
+  top: 65.87%;
+  right: 21.25%;
+  bottom: 10.94%;
+  left: 58.36%;
+  object-fit: cover;
+}
+.image21Icon,
+.image22Icon,
+.vectorIcon1 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image22Icon {
+  height: 19.47%;
+  width: 17.89%;
+  top: 67.79%;
+  right: 2.27%;
+  bottom: 12.74%;
+  left: 79.84%;
+  object-fit: cover;
+}
+.vectorIcon1 {
+  height: 3.7%;
+  width: 2.34%;
+  top: 5.76%;
+  right: 15.3%;
+  bottom: 90.54%;
+  left: 82.36%;
+}
+.emojioneMonotoneletterSIcon,
+.vectorIcon2,
+.vectorIcon3,
+.vectorIcon4 {
+  position: absolute;
+  height: 4.31%;
+  width: 2.67%;
+  top: 5.37%;
+  right: 31.5%;
+  bottom: 90.32%;
+  left: 65.83%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.emojioneMonotoneletterSIcon,
+.vectorIcon3,
+.vectorIcon4 {
+  height: 3.77%;
+  width: 2.45%;
+  top: 5.57%;
+  right: 46.51%;
+  bottom: 90.67%;
+  left: 51.04%;
+}
+.emojioneMonotoneletterSIcon,
+.vectorIcon4 {
+  height: 5.22%;
+  width: 3.36%;
+  top: 5.08%;
+  right: 61.22%;
+  bottom: 89.7%;
+  left: 35.42%;
+}
+.emojioneMonotoneletterSIcon {
+  height: 11.54%;
+  width: 8.98%;
+  top: 1.8%;
+  right: 90%;
+  bottom: 86.66%;
+  left: 1.02%;
+  cursor: pointer;
+}
+.myProfile {
+  position: absolute;
+  height: 4.69%;
+  width: 12.42%;
+  top: 5.05%;
+  right: 1.33%;
+  bottom: 90.26%;
+  left: 86.25%;
+  cursor: pointer;
+}
+.newBrands1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.newBrands {
+  position: absolute;
+  height: 3.37%;
+  width: 15.7%;
+  top: 59.74%;
+  right: 76.02%;
+  bottom: 36.9%;
+  left: 8.28%;
+  cursor: pointer;
+  font-size: 24.24px;
+}
+.offers2 {
+  margin: 0;
+}
+.offers,
+.popularBrands,
+.popularChoices {
+  position: absolute;
+  height: 3%;
+  width: 15.7%;
+  top: 50.24%;
+  right: 76.02%;
+  bottom: 46.75%;
+  left: 8.28%;
+  cursor: pointer;
+  font-size: 24.24px;
+}
+.popularBrands,
+.popularChoices {
+  height: 2.88%;
+  top: 39.78%;
+  bottom: 57.33%;
+}
+.popularChoices {
+  height: 3.37%;
+  top: 29.21%;
+  right: 76.33%;
+  bottom: 67.43%;
+  left: 7.97%;
+}
+.accept1Child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-11xl-3);
+  background-color: var(--color-mediumaquamarine);
+}
+.addToCart {
+  position: absolute;
+  height: 35.62%;
+  width: 93.72%;
+  top: 10.96%;
+  left: 0;
+  display: inline-block;
+}
+.accept1,
+.accept11,
+.accept12,
+.accept13,
+.accept14,
+.accept15,
+.accept16,
+.accept17 {
+  position: absolute;
+  height: 3.25%;
+  width: 11.17%;
+  top: 58.05%;
+  right: 62.19%;
+  bottom: 38.7%;
+  left: 26.64%;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.accept11,
+.accept12,
+.accept13,
+.accept14,
+.accept15,
+.accept16,
+.accept17 {
+  height: 3.61%;
+  width: 11.56%;
+  top: 94.35%;
+  right: 61.64%;
+  bottom: 2.04%;
+  left: 26.8%;
+}
+.accept12,
+.accept13,
+.accept14,
+.accept15,
+.accept16,
+.accept17 {
+  top: 57.81%;
+  right: 42.81%;
+  bottom: 38.58%;
+  left: 45.63%;
+}
+.accept13,
+.accept14,
+.accept15,
+.accept16,
+.accept17 {
+  top: 94.23%;
+  right: 43.52%;
+  bottom: 2.16%;
+  left: 44.92%;
+}
+.accept14,
+.accept15,
+.accept16,
+.accept17 {
+  top: 58.05%;
+  right: 25.39%;
+  bottom: 38.34%;
+  left: 63.05%;
+}
+.accept15,
+.accept16,
+.accept17 {
+  top: 94.35%;
+  right: 25.63%;
+  bottom: 2.04%;
+  left: 62.81%;
+}
+.accept16,
+.accept17 {
+  top: 57.81%;
+  right: 4.45%;
+  bottom: 38.58%;
+  left: 83.98%;
+}
+.accept17 {
+  top: 94.23%;
+  right: 6.09%;
+  bottom: 2.16%;
+  left: 82.34%;
+}
+.myProfile1 {
+  height: 4.59%;
+  width: 15.14%;
+  right: -1.11%;
+  bottom: 90.33%;
+  left: 85.97%;
+}
+.about,
+.myCart,
+.myProfile1,
+.search {
+  position: absolute;
+  top: 5.08%;
+  font-size: 38.79px;
+  color: var(--color-white);
+  cursor: pointer;
+}
+.myCart {
+  height: 3.22%;
+  width: 11.04%;
+  right: 18.61%;
+  bottom: 91.7%;
+  left: 70.35%;
+}
+.about,
+.search {
+  left: 39.86%;
+  text-shadow: 0 4.848405838012695px 4.85px rgba(0, 0, 0, 0.25);
+}
+.search {
+  left: 54.44%;
+}
+.consumerPopularBrandsAmul {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

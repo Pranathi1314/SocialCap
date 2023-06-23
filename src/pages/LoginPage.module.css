@@ -1,0 +1,194 @@
+.loginBackground1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  object-fit: cover;
+}
+.loginPageChild {
+  position: absolute;
+  top: 197.41px;
+  left: 371.42px;
+  background-color: var(--color-gray-100);
+  width: 554.58px;
+  height: 551.53px;
+}
+.emojioneMonotoneletterSIcon {
+  position: absolute;
+  top: 34.6px;
+  left: 40.7px;
+  width: 138.39px;
+  height: 119.06px;
+  overflow: hidden;
+}
+.email,
+.login,
+.twilsonpicklesgmailcom {
+  position: absolute;
+  top: 215.73px;
+  left: 584.09px;
+  font-size: 40.7px;
+  display: inline-block;
+  width: 134.32px;
+  height: 55.97px;
+}
+.email,
+.twilsonpicklesgmailcom {
+  top: 313.41px;
+  left: 431.45px;
+  font-size: 25.44px;
+  width: 102.78px;
+  height: 21.37px;
+}
+.twilsonpicklesgmailcom {
+  top: 368.36px;
+  font-size: 20.35px;
+  width: 359.21px;
+  height: 36.63px;
+}
+.loginPageInner,
+.loginPageItem {
+  position: absolute;
+  top: 398.89px;
+  left: 429.42px;
+  width: 440.62px;
+  height: 6.14px;
+}
+.loginPageInner {
+  top: 532.19px;
+}
+.div,
+.forgotPassword,
+.password {
+  position: absolute;
+  top: 440.61px;
+  left: 431.45px;
+  font-size: 25.44px;
+  display: inline-block;
+  width: 154.67px;
+  height: 25.44px;
+}
+.div,
+.forgotPassword {
+  top: 502.68px;
+  font-size: 20.35px;
+  width: 130.25px;
+  height: 18.32px;
+}
+.forgotPassword {
+  top: 552.54px;
+  left: 704.16px;
+  font-size: 18.32px;
+  width: 186.22px;
+  height: 21.37px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 605.46px;
+  left: 429.42px;
+  background-color: var(--color-dimgray);
+  width: 440.61px;
+  height: 43.76px;
+}
+.login1 {
+  position: absolute;
+  top: 607.49px;
+  left: 596.3px;
+  font-size: 29.51px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 107.86px;
+  height: 41.72px;
+}
+.icbaselineLockIcon,
+.ricloseLineIcon {
+  position: absolute;
+  top: 494.54px;
+  left: 833.4px;
+  width: 30.53px;
+  height: 30.53px;
+  overflow: hidden;
+}
+.ricloseLineIcon {
+  top: 363.28px;
+  width: 33.58px;
+  height: 33.58px;
+}
+.dontHaveAn {
+  position: absolute;
+  top: calc(50% + 155px);
+  left: calc(50% - 247px);
+  font-size: 18.32px;
+  display: inline-block;
+  width: 221.83px;
+  height: 19.33px;
+}
+.epbackIcon {
+  position: absolute;
+  top: 222.85px;
+  left: 388.71px;
+  width: 42.74px;
+  height: 42.74px;
+  overflow: hidden;
+}
+.contact,
+.home,
+.services {
+  position: absolute;
+  top: 67.16px;
+  display: inline-block;
+  height: 54.95px;
+}
+.home {
+  left: 565.26px;
+  width: 116px;
+  cursor: pointer;
+}
+.contact,
+.services {
+  left: 731.13px;
+  width: 156.71px;
+}
+.contact {
+  left: 937.7px;
+}
+.login3 {
+  margin: 0;
+}
+.login2 {
+  position: absolute;
+  top: 67.16px;
+  left: 1144.27px;
+  display: inline-block;
+  width: 118.04px;
+  height: 54.95px;
+}
+.lineIcon,
+.register {
+  position: absolute;
+  top: 120.07px;
+  left: 1144.78px;
+  width: 101.76px;
+  height: 4.07px;
+}
+.register {
+  top: 667.53px;
+  left: 718.41px;
+  font-size: 18.32px;
+  display: inline-block;
+  width: 91.58px;
+  height: 18.32px;
+  cursor: pointer;
+}
+.loginPage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 32.56px;
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

@@ -1,0 +1,438 @@
+.consumerNewBrandsChild {
+  position: absolute;
+  height: 15.14%;
+  width: 100.23%;
+  top: 0;
+  right: -0.23%;
+  bottom: 84.86%;
+  left: 0;
+  background-color: var(--color-mediumaquamarine);
+}
+.groupChild {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.newBrands {
+  position: absolute;
+  height: 72.73%;
+  width: 20.57%;
+  top: 19.83%;
+  left: 42.48%;
+  display: inline-block;
+}
+.vectorParent {
+  position: absolute;
+  height: 7.27%;
+  width: 76.33%;
+  top: 17.31%;
+  right: 0;
+  bottom: 75.42%;
+  left: 23.67%;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  font-size: var(--font-size-13xl);
+}
+.consumerNewBrandsInner,
+.consumerNewBrandsItem {
+  position: absolute;
+  height: 39.78%;
+  width: 22.66%;
+  top: 26.92%;
+  right: 77.34%;
+  bottom: 33.29%;
+  left: 0;
+  background-color: var(--color-gainsboro);
+}
+.consumerNewBrandsInner {
+  height: 9.38%;
+  top: 57.33%;
+  background-color: var(--color-mediumaquamarine);
+}
+.optons,
+.optons1,
+.optons2,
+.optons3 {
+  position: absolute;
+  height: 2.76%;
+  width: 11.25%;
+  top: 63.1%;
+  left: 8.28%;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+  display: inline-block;
+}
+.optons1,
+.optons2,
+.optons3 {
+  top: 53.73%;
+}
+.optons2,
+.optons3 {
+  top: 43.03%;
+}
+.optons3 {
+  top: 34.25%;
+}
+.image5Icon,
+.image6Icon,
+.image7Icon,
+.image8Icon {
+  position: absolute;
+  height: 6.97%;
+  width: 4.3%;
+  top: 58.53%;
+  right: 93.36%;
+  bottom: 34.5%;
+  left: 2.34%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image5Icon,
+.image6Icon,
+.image7Icon {
+  top: 48.56%;
+  right: 93.13%;
+  bottom: 44.47%;
+  left: 2.58%;
+}
+.image5Icon,
+.image6Icon {
+  top: 38.82%;
+  right: 93.36%;
+  bottom: 54.21%;
+  left: 2.34%;
+}
+.image6Icon {
+  top: 29.09%;
+  right: 93.44%;
+  bottom: 63.94%;
+  left: 2.27%;
+}
+.newBrand,
+.newBrand1,
+.newBrand2,
+.newBrand3,
+.newBrand4 {
+  position: absolute;
+  height: 6.25%;
+  width: 18.05%;
+  top: 59.98%;
+  left: 73.2%;
+  display: inline-block;
+}
+.newBrand1,
+.newBrand2,
+.newBrand3,
+.newBrand4 {
+  top: 95.43%;
+  left: 73.05%;
+}
+.newBrand2,
+.newBrand3,
+.newBrand4 {
+  left: 29.61%;
+}
+.newBrand3,
+.newBrand4 {
+  top: 61.18%;
+}
+.newBrand4 {
+  left: 52.81%;
+}
+.image25Icon {
+  height: 26.92%;
+  width: 17.58%;
+  top: 31.61%;
+  right: 14.3%;
+  bottom: 41.47%;
+  left: 68.13%;
+  object-fit: cover;
+}
+.image25Icon,
+.image26Icon,
+.image30Icon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image26Icon {
+  height: 26.92%;
+  width: 17.58%;
+  top: 32.33%;
+  right: 34.69%;
+  bottom: 40.75%;
+  left: 47.73%;
+  object-fit: cover;
+}
+.image30Icon {
+  top: 33.41%;
+  right: 56.64%;
+  bottom: 39.66%;
+  left: 25.78%;
+}
+.image27Icon,
+.image28Icon,
+.image30Icon {
+  height: 26.92%;
+  width: 17.58%;
+  object-fit: cover;
+}
+.image27Icon {
+  position: absolute;
+  top: 67.43%;
+  right: 14.3%;
+  bottom: 5.65%;
+  left: 68.13%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image28Icon {
+  top: 68.51%;
+  right: 34.69%;
+  bottom: 4.57%;
+  left: 47.73%;
+}
+.image28Icon,
+.image29Icon,
+.vectorIcon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image29Icon {
+  height: 26.92%;
+  width: 17.58%;
+  top: 67.43%;
+  right: 56.64%;
+  bottom: 5.65%;
+  left: 25.78%;
+  object-fit: cover;
+}
+.vectorIcon {
+  height: 5.22%;
+  width: 3.36%;
+  top: 4.1%;
+  right: 63.72%;
+  bottom: 90.68%;
+  left: 32.92%;
+}
+.about,
+.about1 {
+  position: absolute;
+  cursor: pointer;
+}
+.about1 {
+  top: 0.32%;
+  left: -35.84%;
+  text-shadow: 0 4.848405838012695px 4.85px rgba(0, 0, 0, 0.25);
+}
+.about {
+  height: 4.69%;
+  width: 7.81%;
+  top: 4.59%;
+  right: 51.63%;
+  bottom: 90.72%;
+  left: 40.56%;
+  font-size: 38.79px;
+  color: var(--color-white);
+}
+.vectorIcon1 {
+  position: absolute;
+  height: 3.77%;
+  width: 2.45%;
+  top: 5.08%;
+  right: 48.8%;
+  bottom: 91.16%;
+  left: 48.75%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search {
+  position: absolute;
+  height: 4.69%;
+  width: 8.59%;
+  top: 4.93%;
+  right: 39.45%;
+  bottom: 90.38%;
+  left: 51.95%;
+  cursor: pointer;
+}
+.vectorIcon2,
+.vectorIcon3 {
+  position: absolute;
+  height: 4.31%;
+  width: 2.67%;
+  top: 4.69%;
+  right: 32.61%;
+  bottom: 91.01%;
+  left: 64.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon3 {
+  height: 3.7%;
+  width: 2.34%;
+  top: 5.17%;
+  right: 15.63%;
+  bottom: 91.14%;
+  left: 82.03%;
+}
+.myProfile {
+  position: absolute;
+  height: 82.98%;
+  width: 70.67%;
+  top: 16.07%;
+  left: 56.3%;
+  display: none;
+  text-shadow: 0 4.848405838012695px 4.85px rgba(0, 0, 0, 0.25);
+}
+.myCart2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.myCart,
+.myCart1 {
+  position: absolute;
+  cursor: pointer;
+}
+.myCart1 {
+  height: 57.93%;
+  width: 58.3%;
+  top: 0.27%;
+  right: 71.2%;
+  bottom: 41.81%;
+  left: -29.51%;
+  display: none;
+}
+.myCart {
+  height: 5.65%;
+  width: 12.81%;
+  top: 2.15%;
+  right: 23.02%;
+  bottom: 92.2%;
+  left: 64.17%;
+  font-size: 38.79px;
+  color: var(--color-white);
+}
+.emojioneMonotoneletterSIcon,
+.myProfile1 {
+  position: absolute;
+  height: 4.69%;
+  width: 12.42%;
+  top: 4.69%;
+  right: 1.88%;
+  bottom: 90.63%;
+  left: 85.7%;
+  cursor: pointer;
+}
+.emojioneMonotoneletterSIcon {
+  height: 11.54%;
+  width: 8.98%;
+  top: 1.8%;
+  right: 90.31%;
+  bottom: 86.66%;
+  left: 0.7%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.newBrands1 {
+  position: absolute;
+  height: 3.37%;
+  width: 15.7%;
+  top: 59.5%;
+  right: 76.33%;
+  bottom: 37.14%;
+  left: 7.97%;
+  cursor: pointer;
+  font-size: 24.24px;
+}
+.offers2 {
+  margin: 0;
+}
+.offers,
+.popularBrands,
+.popularChoices {
+  position: absolute;
+  height: 3%;
+  width: 15.7%;
+  top: 49.52%;
+  right: 76.02%;
+  bottom: 47.48%;
+  left: 8.28%;
+  cursor: pointer;
+  font-size: 24.24px;
+}
+.popularBrands,
+.popularChoices {
+  height: 2.88%;
+  top: 39.9%;
+  bottom: 57.21%;
+}
+.popularChoices {
+  height: 3.37%;
+  top: 30.65%;
+  right: 76.33%;
+  bottom: 65.99%;
+  left: 7.97%;
+}
+.myCart3,
+.myProfile2,
+.search1 {
+  position: absolute;
+  font-size: 38.79px;
+  color: var(--color-white);
+  cursor: pointer;
+}
+.myProfile2 {
+  height: 4.59%;
+  width: 15.14%;
+  top: 4.69%;
+  right: -0.21%;
+  bottom: 90.72%;
+  left: 85.07%;
+}
+.myCart3,
+.search1 {
+  top: 4.59%;
+}
+.myCart3 {
+  height: 3.22%;
+  width: 11.04%;
+  right: 20.07%;
+  bottom: 92.19%;
+  left: 68.89%;
+}
+.search1 {
+  left: 52.57%;
+  text-shadow: 0 4.848405838012695px 4.85px rgba(0, 0, 0, 0.25);
+}
+.consumerNewBrands {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

@@ -1,0 +1,371 @@
+.consumerPopularBrandaChild {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  background-color: var(--color-mediumaquamarine);
+  width: 1580px;
+  height: 126px;
+}
+.emojioneMonotoneletterSIcon,
+.vectorIcon,
+.vectorIcon1 {
+  position: absolute;
+  top: 11px;
+  left: 2px;
+  width: 115px;
+  height: 96px;
+  overflow: hidden;
+}
+.vectorIcon,
+.vectorIcon1 {
+  height: 5.22%;
+  width: 3.36%;
+  top: 4.1%;
+  right: 65.81%;
+  bottom: 90.68%;
+  left: 30.83%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vectorIcon1 {
+  height: 3.77%;
+  width: 2.45%;
+  top: 4.98%;
+  right: 49.57%;
+  bottom: 91.25%;
+  left: 44.99%;
+}
+.search {
+  position: absolute;
+  top: 43px;
+  left: 812px;
+  width: 133.33px;
+  height: 47.27px;
+  cursor: pointer;
+}
+.vectorIcon2,
+.vectorIcon3 {
+  position: absolute;
+  height: 4.31%;
+  width: 2.67%;
+  top: 4.98%;
+  right: 34.34%;
+  bottom: 90.71%;
+  left: 910px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon3 {
+  height: 3.7%;
+  width: 2.34%;
+  top: 4.49%;
+  right: 17.03%;
+  bottom: 91.81%;
+  left: 1170px;
+}
+.groupChild,
+.popularBrands {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 977px;
+  height: 60.5px;
+}
+.popularBrands {
+  top: 10px;
+  left: 315px;
+  display: inline-block;
+  width: 280.18px;
+  height: 40px;
+}
+.vectorParent {
+  position: absolute;
+  top: 157px;
+  left: 303px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 977px;
+  height: 60.5px;
+  font-size: var(--font-size-13xl);
+}
+.image9Icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image15 {
+  top: 290px;
+  left: 298px;
+  width: 300px;
+  height: 168px;
+  cursor: pointer;
+}
+.amul,
+.image15,
+.image16 {
+  position: absolute;
+}
+.amul {
+  top: 489px;
+  left: 424px;
+  display: inline-block;
+  width: 137px;
+  height: 47px;
+}
+.image16 {
+  top: 290px;
+  left: 696px;
+  width: 193px;
+  height: 168px;
+}
+.span {
+  font-family: var(--font-montserrat);
+}
+.lijjatPapad1 {
+  margin: 0;
+}
+.lijjatPapad {
+  position: absolute;
+  top: 488px;
+  left: 748px;
+  display: inline-block;
+  width: 300px;
+  height: 25px;
+}
+.image17,
+.jhajiAachar {
+  position: absolute;
+  top: 290px;
+  left: 969px;
+  width: 300px;
+  height: 168px;
+}
+.jhajiAachar {
+  top: 487px;
+  left: 1084px;
+  display: inline-block;
+  height: 25px;
+}
+.image20,
+.motherDairy {
+  position: absolute;
+  top: 569px;
+  left: 975px;
+  width: 292px;
+  height: 172px;
+}
+.motherDairy {
+  top: 760px;
+  left: 1093px;
+  display: inline-block;
+  width: 300px;
+  height: 25px;
+}
+.britannia,
+.image19 {
+  position: absolute;
+  top: 569px;
+  left: 629px;
+  width: 300px;
+  height: 168px;
+}
+.britannia {
+  top: 761px;
+  left: 751px;
+  display: inline-block;
+  height: 25px;
+}
+.image18,
+.patanjali {
+  position: absolute;
+  top: 565px;
+  left: 298px;
+  width: 293px;
+  height: 172px;
+}
+.patanjali {
+  top: 759px;
+  left: 409px;
+  display: inline-block;
+  width: 300px;
+  height: 25px;
+}
+.consumerPopularBrandaItem {
+  position: absolute;
+  top: 269px;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 290px;
+  height: 354px;
+}
+.image6Icon {
+  position: absolute;
+  top: 279px;
+  left: 0;
+  width: 55px;
+  height: 58px;
+  object-fit: cover;
+}
+.popularChoices1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.popularChoices {
+  position: absolute;
+  top: 280px;
+  left: 89px;
+  width: 243.63px;
+  height: 33.94px;
+  cursor: pointer;
+  font-size: 24.24px;
+}
+.optons {
+  position: absolute;
+  top: 314px;
+  left: 132px;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+  display: inline-block;
+  width: 144px;
+  height: 23px;
+}
+.consumerPopularBrandaInner {
+  position: absolute;
+  top: 364px;
+  left: 0;
+  background-color: var(--color-mediumaquamarine);
+  width: 290px;
+  height: 78px;
+}
+.image5Icon {
+  position: absolute;
+  top: 374px;
+  left: 0;
+  width: 55px;
+  height: 58px;
+  object-fit: cover;
+}
+.popularBrands1 {
+  position: absolute;
+  top: 374px;
+  left: 89px;
+  width: 243.63px;
+  height: 29.09px;
+  cursor: pointer;
+  font-size: 24.24px;
+}
+.optons1 {
+  position: absolute;
+  top: 404px;
+  left: 145px;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+  display: inline-block;
+  width: 144px;
+  height: 23px;
+}
+.image7Icon,
+.image8Icon {
+  position: absolute;
+  top: 469px;
+  left: 0;
+  width: 55px;
+  height: 58px;
+  object-fit: cover;
+}
+.image8Icon {
+  top: 554px;
+}
+.offers {
+  position: absolute;
+  top: 476px;
+  left: 117px;
+  width: 243.63px;
+  height: 30.3px;
+  cursor: pointer;
+  font-size: 24.24px;
+}
+.optons2 {
+  top: 507px;
+  left: 117px;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+  width: 144px;
+  height: 23px;
+}
+.newBrands,
+.optons2,
+.optons3 {
+  position: absolute;
+  display: inline-block;
+}
+.newBrands {
+  top: 557px;
+  left: 97px;
+  font-size: var(--font-size-xl);
+  width: 201px;
+  height: 28px;
+  cursor: pointer;
+}
+.optons3 {
+  top: 591px;
+  left: 125px;
+  font-size: var(--font-size-xs);
+  font-weight: 300;
+  width: 144px;
+  height: 23px;
+}
+.myProfile {
+  top: 43px;
+  left: 1222px;
+  width: 218px;
+  height: 47px;
+}
+.about,
+.myCart,
+.myProfile,
+.search1 {
+  position: absolute;
+  font-size: 38.79px;
+  color: var(--color-white);
+  cursor: pointer;
+}
+.myCart {
+  top: 41px;
+  left: 975px;
+  width: 159px;
+  height: 33px;
+}
+.about,
+.search1 {
+  top: 4.2%;
+  left: 48.15%;
+  text-shadow: 0 4.848405838012695px 4.85px rgba(0, 0, 0, 0.25);
+}
+.about {
+  top: 4.49%;
+  left: 35.35%;
+}
+.consumerPopularBranda {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

@@ -1,0 +1,207 @@
+.loginBackground1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1024px;
+  object-fit: cover;
+}
+.consumerSignInChild {
+  position: absolute;
+  top: 97px;
+  left: 353px;
+  width: 613px;
+  height: 837px;
+}
+.address,
+.contactNo,
+.password {
+  position: absolute;
+  top: 434px;
+  left: 441px;
+  display: inline-block;
+  width: 152px;
+  height: 25px;
+}
+.address,
+.password {
+  top: 535px;
+}
+.password {
+  top: 632px;
+}
+.notoV1womanFarmerIcon {
+  position: absolute;
+  height: 18.03%;
+  width: 11.72%;
+  top: 1.44%;
+  right: 86.48%;
+  bottom: 80.53%;
+  left: 1.8%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.signUp,
+.supplierName {
+  position: absolute;
+  display: inline-block;
+}
+.signUp {
+  top: 104px;
+  left: 577px;
+  font-size: var(--font-size-21xl);
+  width: 178px;
+  height: 55px;
+}
+.supplierName {
+  top: 221px;
+  left: 441px;
+  width: 255px;
+  height: 27px;
+}
+.consumerSignInInner,
+.consumerSignInItem {
+  position: absolute;
+  top: 293.5px;
+  left: 440.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 438px;
+  height: 1px;
+}
+.consumerSignInInner {
+  top: 387.5px;
+}
+.lineIcon {
+  position: absolute;
+  top: 496.5px;
+  left: 441px;
+  width: 437px;
+  height: 1px;
+}
+.consumerSignInChild1,
+.consumerSignInChild2,
+.userId {
+  position: absolute;
+  top: 592.5px;
+  left: 441px;
+  width: 437px;
+  height: 1px;
+}
+.consumerSignInChild2,
+.userId {
+  top: 689.5px;
+}
+.userId {
+  top: 331px;
+  display: inline-block;
+  width: 152px;
+  height: 25px;
+}
+.rectangleDiv,
+.signUp1 {
+  position: absolute;
+  top: 763px;
+}
+.rectangleDiv {
+  left: 441px;
+  background-color: var(--color-dimgray);
+  width: 433px;
+  height: 43px;
+  cursor: pointer;
+}
+.signUp1 {
+  left: 605px;
+  font-size: var(--font-size-10xl);
+  color: var(--color-white);
+  display: inline-block;
+  width: 132px;
+  height: 41px;
+}
+.ricloseLineIcon {
+  position: absolute;
+  top: 231px;
+  left: 846px;
+  width: 33px;
+  height: 33px;
+  overflow: hidden;
+}
+.alreadyHaveAn {
+  position: absolute;
+  top: calc(50% + 355px);
+  left: calc(50% - 196px);
+  font-size: var(--font-size-lg);
+  display: inline-block;
+  width: 316px;
+  height: 19px;
+  cursor: pointer;
+}
+.epbackIcon {
+  position: absolute;
+  top: 113px;
+  left: 365px;
+  width: 42px;
+  height: 42px;
+  overflow: hidden;
+}
+.ricloseLineIcon1,
+.ricloseLineIcon2 {
+  position: absolute;
+  top: 328px;
+  left: 838px;
+  width: 33px;
+  height: 33px;
+  overflow: hidden;
+}
+.ricloseLineIcon2 {
+  top: 437px;
+}
+.ricloseLine {
+  top: 412px;
+  left: 822px;
+  width: 33px;
+  height: 33px;
+}
+.icbaselineLockIcon,
+.ricloseLine,
+.vectorIcon {
+  position: absolute;
+  overflow: hidden;
+}
+.vectorIcon {
+  height: 2.1%;
+  width: 1.37%;
+  top: 52.15%;
+  right: 40.02%;
+  bottom: 45.75%;
+  left: 58.61%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.icbaselineLockIcon {
+  top: 630px;
+  left: 839px;
+  width: 30px;
+  height: 30px;
+}
+.consumerSignIn,
+.supplierSignIn {
+  background-color: var(--color-white);
+  height: 1024px;
+  overflow: hidden;
+}
+.consumerSignIn {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+}
+.supplierSignIn {
+  position: relative;
+  width: 100%;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}

@@ -1,0 +1,167 @@
+.bg1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 1080px;
+  object-fit: cover;
+}
+.consumerAboutChild {
+  position: absolute;
+  top: 0;
+  left: -9px;
+  background-color: var(--color-mediumaquamarine);
+  width: 1586px;
+  height: 138px;
+}
+.emojioneMonotoneletterSIcon {
+  position: absolute;
+  top: 21px;
+  left: 5px;
+  width: 115px;
+  height: 96px;
+  overflow: hidden;
+  cursor: pointer;
+}
+.iconQuestionMarkCircle {
+  position: absolute;
+  height: 3.22%;
+  width: 3.36%;
+  top: 5.40%;
+  right: 17.97%;
+  bottom: 88.65%;
+  left: 33.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.about,
+.about1 {
+  position: absolute;
+}
+.about1 {
+  top: 0;
+  left: 0;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.about {
+  top: 53px;
+  left: 730px;
+  width: 100px;
+  height: 39px;
+  cursor: pointer;
+}
+.vectorIcon {
+  position: absolute;
+  height: 4.77%;
+  width: 1.45%;
+  top: 5.13%;
+  right: 31.93%;
+  bottom: 90.1%;
+  left: 44.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.cartIcon,
+.search {
+  position: absolute;
+  top: 51px;
+}
+.search {
+  left: 900px;
+  width: 110px;
+  height: 39px;
+  cursor: pointer;
+}
+.cartIcon {
+  left: 1050px;
+  width: 41px;
+  height: 43px;
+  overflow: hidden;
+}
+.myCart1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  mix-blend-mode: normal;
+}
+.myCart {
+  position: absolute;
+  top: 51px;
+  left: 900px;
+  width: 131px;
+  height: 47px;
+  cursor: pointer;
+}
+.vectorIcon1 {
+  position: absolute;
+  height: 3.7%;
+  width: 2.34%;
+  top: 4.49%;
+  right: 16.25%;
+  bottom: 89.81%;
+  left: 1250px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.myProfile1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 200px;
+  display: inline-block;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.myProfile {
+  position: absolute;
+  top: 52px;
+  left: 1094px;
+  width: 159px;
+  height: 39px;
+  cursor: pointer;
+}
+.consumerAboutItem,
+.maskGroupIcon {
+  position: absolute;
+  top: 108.02px;
+  left: 665px;
+  width: 227px;
+  height: 6.02px;
+}
+.maskGroupIcon {
+  height: 4.57%;
+  width: 10.44%;
+  top: 18.03%;
+  right: 96.33%;
+  bottom: 77.4%;
+  left: 0.23%;
+  max-width: 200%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.consumerAboutInner {
+  position: absolute;
+  top: 186px;
+  left: 255px;
+  width: 822px;
+  height: 610px;
+}
+.consumerAbout {
+  position: absolute;
+  background-color: var(--color-white);
+  width: 1920px;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
