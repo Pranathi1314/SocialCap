@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,600;0,700;1,400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
 body {
   margin: 0;
@@ -10,45 +10,25 @@ body {
   --font-inter: Inter;
 
   /* font sizes */
-  --font-size-19xl-8: 38.8px;
-  --font-size-xs: 12px;
-  --font-size-xl: 20px;
-  --font-size-5xl-2: 24.2px;
-  --font-size-sm: 14px;
   --font-size-13xl: 32px;
-  --font-size-base: 16px;
-  --font-size-5xl: 24px;
-  --font-size-6xl: 25px;
-  --font-size-7xl-8: 26.8px;
-  --font-size-23xl-8: 42.8px;
-  --font-size-14xl-4: 33.4px;
-  --font-size-base-5: 15.5px;
-  --font-size-sm-2: 13.2px;
-  --font-size-3xl-2: 22.2px;
-  --font-size-11xl-8: 30.8px;
   --font-size-lg: 18px;
   --font-size-10xl: 29px;
+  --font-size-6xl: 25px;
   --font-size-21xl: 40px;
-  --font-size-mini-6: 14.6px;
-  --font-size-11xl-3: 30.3px;
-  --font-size-mid: 17px;
-  --font-size-lg-3: 18.3px;
-  --font-size-13xl-6: 32.6px;
-  --font-size-xl-4: 20.4px;
-  --font-size-6xl-4: 25.4px;
+  --font-size-xl: 20px;
+  --font-size-9xl: 28px;
+  --font-size-xs: 12px;
+  --font-size-sm: 14px;
 
   /* Colors */
   --color-white: #fff;
   --color-black: #000;
-  --color-mediumaquamarine: #1abc9c;
-  --color-gainsboro: #d9d9d9;
+  --color-dimgray: #555e4d;
+  --color-aquamarine: #b4f6ba;
   --color-gray-100: rgba(255, 255, 255, 0.6);
   --color-gray-200: rgba(255, 255, 255, 0.8);
-  --color-aquamarine: #b4f6ba;
-  --color-dimgray: #555e4d;
+  --color-mediumaquamarine: #1abc9c;
 
   /* border radiuses */
-  --br-11xl-3: 30.3px;
   --br-6xl: 25px;
-  --br-14xl-4: 33.4px;
 }
