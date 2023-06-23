@@ -1,60 +1,48 @@
 import { useCallback } from "react";
 import { useNavigate } from "react-router-dom";
-import styles from "./LoginPage.module.css";
+import "./LoginPage.css";
 const LoginPage = () => {
   const navigate = useNavigate();
-
-  const onHomeTextClick = useCallback(() => {
-    navigate("/landing-page");
-  }, [navigate]);
 
   const onRegisterTextClick = useCallback(() => {
     navigate("/role");
   }, [navigate]);
 
   return (
-    <div className={styles.loginPage}>
+    <div className="login-page">
       <img
-        className={styles.loginBackground1}
+        className="login-background-14"
         alt=""
-        src="/login-background-15@2x.png"
+        src="/login-background-1@2x.png"
       />
-      <div className={styles.loginPageChild} />
+      <div className="login-page-child" />
       <img
-        className={styles.emojioneMonotoneletterSIcon}
+        className="emojione-monotoneletter-s-icon13"
         alt=""
-        src="/emojionemonotoneletters8.svg"
+        src="/emojionemonotoneletters.svg"
       />
-      <b className={styles.login}>Login</b>
-      <div className={styles.email}>Email</div>
-      <div className={styles.twilsonpicklesgmailcom}>
-        twilsonpickles@gmail.com
-      </div>
-      <img className={styles.loginPageItem} alt="" src="/line-22.svg" />
-      <img className={styles.loginPageInner} alt="" src="/line-32.svg" />
-      <div className={styles.password}>Password</div>
-      <div className={styles.div}>***********</div>
-      <div className={styles.forgotPassword}>Forgot password?</div>
-      <div className={styles.rectangleDiv} />
-      <div className={styles.login1}>Login</div>
-      <img
-        className={styles.icbaselineLockIcon}
-        alt=""
-        src="/icbaselinelock1.svg"
-      />
-      <img className={styles.ricloseLineIcon} alt="" src="/ricloseline6.svg" />
-      <div className={styles.dontHaveAn}>{`Don’t have an account? `}</div>
-      <img className={styles.epbackIcon} alt="" src="/epback5.svg" />
-      <b className={styles.home} onClick={onHomeTextClick}>
-        Home
+      <b className="login2">Login</b>
+      <div className="email">Email</div>
+      <input type="text" className="email-text-field"></input>
+      <img className="login-page-item" alt="" src="/line-2.svg" />
+      <img className="login-page-inner" alt="" src="/line-2.svg" />
+      <div className="password5">Password</div>
+      <input type="password" className="div20"></input>
+      <div className="forgot-password">Forgot password?</div>
+      <div className="login-page-child1" />
+      <div className="login3">Login</div>
+      <img className="icbaseline-lock-icon2" alt="" src="/icbaselinelock.svg" />
+      <img className="riclose-line-icon9" alt="" src="/ricloseline3.svg" />
+      <div className="dont-have-an">Don’t have an account?</div>
+      <img className="epback-icon4" alt="" src="/epback4.svg" />
+      <b className="home1">Home</b>
+      <b className="services1">Services</b>
+      <b className="contact1">Contact</b>
+      <b className="login4">
+        <p className="login5">Login</p>
       </b>
-      <b className={styles.services}>Services</b>
-      <b className={styles.contact}>Contact</b>
-      <b className={styles.login2}>
-        <p className={styles.login3}>Login</p>
-      </b>
-      <img className={styles.lineIcon} alt="" src="/line-51.svg" />
-      <b className={styles.register} onClick={onRegisterTextClick}>
+      <img className="login-page-child2" alt="" src="/line-5.svg" />
+      <b className="register" onClick={onRegisterTextClick}>
         Register
       </b>
     </div>

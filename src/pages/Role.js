@@ -1,6 +1,6 @@
 import { useCallback } from "react";
 import { useNavigate } from "react-router-dom";
-import styles from "./Role.module.css";
+import "./Role.css";
 const Role = () => {
   const navigate = useNavigate();
 
@@ -17,50 +17,43 @@ const Role = () => {
   }, [navigate]);
 
   return (
-    <div className={styles.role}>
+    <div className="role">
       <img
-        className={styles.loginBackground1}
+        className="login-background-13"
         alt=""
-        src="/login-background-14@2x.png"
+        src="/login-background-1@2x.png"
       />
-      <div className={styles.roleChild} />
+      <div className="role-child" />
       <img
-        className={styles.emojioneMonotoneletterSIcon}
+        className="emojione-monotoneletter-s-icon12"
         alt=""
-        src="/emojionemonotoneletters6.svg"
+        src="/emojionemonotoneletters.svg"
       />
-      <b className={styles.signUp}>Sign up</b>
-      <div className={styles.whatsYourRole}>What’s your role?</div>
-      <img className={styles.epbackIcon} alt="" src="/epback4.svg" />
+      <b className="sign-up6">Sign up</b>
+      <div className="whats-your-role">What’s your role?</div>
+      <img className="epback-icon3" alt="" src="/epback3.svg" />
       <img
-        className={styles.notoV1womanFarmerIcon}
+        className="noto-v1woman-farmer-icon1"
         alt=""
         src="/notov1womanfarmer1.svg"
       />
+      <img className="twemojifamily-icon1" alt="" src="/twemojifamily1.svg" />
       <img
-        className={styles.twemojifamilyIcon}
-        alt=""
-        src="/twemojifamily2.svg"
-      />
-      <img
-        className={styles.twemojimanOfficeWorkerLighIcon}
+        className="twemojiman-office-worker-ligh-icon1"
         alt=""
         src="/twemojimanofficeworkerlightskintone1.svg"
       />
-      <div className={styles.rectangleParent} onClick={onGroupContainerClick}>
-        <div className={styles.groupChild} />
-        <div className={styles.producer}>Producer</div>
+      <div className="rectangle-parent4" onClick={onGroupContainerClick}>
+        <div className="group-child9" />
+        <div className="producer">Producer</div>
       </div>
-      <div className={styles.rectangleGroup} onClick={onGroupContainer1Click}>
-        <div className={styles.groupChild} />
-        <div className={styles.consumer}>Consumer</div>
+      <div className="rectangle-parent5" onClick={onGroupContainer1Click}>
+        <div className="group-child9" />
+        <div className="consumer">Consumer</div>
       </div>
-      <div
-        className={styles.rectangleContainer}
-        onClick={onGroupContainer2Click}
-      >
-        <div className={styles.groupChild} />
-        <div className={styles.supplier}>Supplier</div>
+      <div className="rectangle-parent6" onClick={onGroupContainer2Click}>
+        <div className="group-child9" />
+        <div className="supplier">Supplier</div>
       </div>
     </div>
   );
