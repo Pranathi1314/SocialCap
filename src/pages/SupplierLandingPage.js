@@ -20,7 +20,7 @@ const SupplierLandingPage = () => {
         alt=""
         src="/emojionemonotoneletters1.svg"
       />
-      <div className="help10">Help</div>
+      <div className="help9">Help</div>
       <div className="div8">
         <p className="item-tomato">1.</p>
       </div>
@@ -75,19 +75,19 @@ const SupplierLandingPage = () => {
       </div>
       <img className="mango-raw-icon" alt="" src="/mango-raw@2x.png" />
       <img className="tomato1-icon" alt="" src="/tomato1@2x.png" />
-      <div className="group-div">
-        <img className="group-child3" alt="" src="/group-3.svg" />
+      <div className="vector-container">
+        <img className="group-child5" alt="" src="/group-3.svg" />
         <div className="raw-material-order-wrapper">
           <div className="raw-material-order">Raw Material Order</div>
         </div>
       </div>
-      <img className="help-icon9" alt="" src="/help-icon1.svg" />
-      <div className="my-profile-parent1" onClick={onGroupContainer1Click}>
-        <div className="my-profile13">My Profile</div>
-        <img className="person-icon9" alt="" src="/person-icon.svg" />
+      <img className="help-icon8" alt="" src="/help-icon2.svg" />
+      <div className="my-profile-container" onClick={onGroupContainer1Click}>
+        <div className="my-profile12">My Profile</div>
+        <img className="person-icon8" alt="" src="/person-icon.svg" />
       </div>
       <img className="olive-oil-icon" alt="" src="/olive-oil@2x.png" />
-      <div className="accept18" onClick={onAccept1ContainerClick}>
+      <div className="accept114" onClick={onAccept1ContainerClick}>
         <div className="accept2-child" />
         <div className="supply">Supply</div>
       </div>
