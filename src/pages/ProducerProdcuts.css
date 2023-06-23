@@ -1,5 +1,4 @@
 .producer-prodcuts-child {
-  position: absolute;
   top: 0;
   left: -3px;
   background-color: var(--color-mediumaquamarine);
@@ -170,6 +169,16 @@
   width: 170px;
   height: 73px;
 }
+.add-product-group {
+  position: absolute;
+  top: 500px;
+  left: 100px;
+  border-radius: var(--br-6xl);
+  background-color: red;
+  width: 170px;
+  height: 73px;
+}
+
 .accept13,
 .accept14,
 .edit-details1 {
@@ -210,23 +219,41 @@
   display: inline-block;
   height: 26px;
 }
+
+.button-add-product {
+  border-radius: var(--br-6xl);
+  background-color: rgb(252, 116, 67);
+  top: 174px;
+  height: 80px;
+  width: 150px;
+  left: 1070px;
+  text-align: center;
+  position: absolute;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.add-text {
+  font-size: 27px;
+  position: absolute;
+  top: -20px;
+}
 .back-icon {
   position: absolute;
   height: 39px;
   width: 44px;
-  top: 23.56%;
+  top: 196px;
   left: 17px;
   overflow: hidden;
   cursor: pointer;
 }
 .producer-prodcuts {
-  position: relative;
   background-color: var(--color-white);
-  width: 100%;
-  height: 832px;
+  width: 1920px;
+  height: 1080px;
   overflow: hidden;
-  text-align: left;
   font-size: var(--font-size-13xl);
   color: var(--color-white);
   font-family: var(--font-montserrat);
 }
+

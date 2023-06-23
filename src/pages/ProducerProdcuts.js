@@ -16,6 +16,10 @@ const ProducerProdcuts = () => {
     navigate("/producer-landing-page");
   }, [navigate]);
 
+  const onAddProductClick = useCallback(() => {
+    navigate("/add-products");
+  }, [navigate]);
+
   return (
     <div className="producer-prodcuts">
       <div className="producer-prodcuts-child" />
@@ -37,9 +41,13 @@ const ProducerProdcuts = () => {
       </div>
       <div className="div1">2.</div>
       <img className="tomato-1-icon" alt="" src="/tomato-1@2x.png" />
+      <div className="button-add-product" onClick={onAddProductClick}>
+          <p className="add-text">Add product</p>
+      </div>
       <div className="vector-group">
         <img className="group-item" alt="" src="/group-3.svg" />
         <div className="my-products2">My Products</div>
+
       </div>
       <img className="help-icon2" alt="" src="/help-icon1.svg" />
       <img className="cart-icon1" alt="" src="/cart-icon.svg" />
@@ -107,15 +115,19 @@ const ProducerProdcuts = () => {
         <div className="accept14">
           <div className="accept1-child1" />
         </div>
+
+
         <div className="edit-details1">
           <p className="name-mango-pickle">Edit</p>
           <p className="name-mango-pickle">details</p>
         </div>
       </div>
+
       <div className="edit-details2">
         <p className="name-mango-pickle">Edit</p>
         <p className="name-mango-pickle">details</p>
       </div>
+
       <img
         className="back-icon"
         alt=""
@@ -123,6 +135,8 @@ const ProducerProdcuts = () => {
         onClick={onBackIconClick}
       />
     </div>
+
+
   );
 };
 
