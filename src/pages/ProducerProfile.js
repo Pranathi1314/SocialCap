@@ -1,6 +1,9 @@
 import { useCallback } from "react";
+import { useEffect, useState} from "react";
 import { useNavigate } from "react-router-dom";
 import "./ProducerProfile.css";
+
+
 const ProducerProfile = () => {
   const navigate = useNavigate();
 
@@ -19,6 +22,23 @@ const ProducerProfile = () => {
   const onMaskGroupIconClick = useCallback(() => {
     navigate("/producer-landing-page");
   }, [navigate]);
+
+  const [notes, setNotes] = useState([{
+    producername: '',
+    produceremail:'',
+    producercontact: '',
+    produceraddress:'',
+    producerpassword: '',
+    producercategory: ''
+  }])
+
+  useEffect(() => {
+    fetch("/producer-profile").then(res => {
+      if(res.ok) {
+        return res.json()
+      }
+    }).then(jsonRes => setNotes(jsonRes));
+  })
 
   return (
     <div className="producer-profile">
@@ -52,7 +72,12 @@ const ProducerProfile = () => {
       <div className="producer-profile-inner" />
       <div className="producer-profile-child1" />
       <div className="company-wilson-container">
-        <p className="company-wilson">Company : Wilson pickles</p>
+        <p className="company-wilson">Company : </p>
+        {notes.map(note =>
+        <div>
+          <h1>{note.producername}</h1>
+        </div>
+        )}
         <p className="company-wilson">&nbsp;</p>
         <p className="company-wilson">Name : Tim Wilson</p>
         <p className="company-wilson">&nbsp;</p>

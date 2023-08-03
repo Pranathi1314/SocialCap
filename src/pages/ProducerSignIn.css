@@ -159,12 +159,18 @@
   box-sizing: border-box;
   width: 438px;
 }
-.consumer-sign-in-child6,
+.consumer-sign-in-child6{
+  position: absolute;
+  top: 523px;
+  left: 402px;
+  width: 439px;
+  height: 1px;
+}
 .user-id1 {
   position: absolute;
   top: 519px;
   left: 407px;
-  width: 437px;
+  width: 439px;
   height: 1px;
 }
 .user-id1 {
@@ -179,20 +185,13 @@
   top: 625px;
   left: 422px;
   background-color: var(--color-dimgray);
-  width: 433px;
-  height: 43px;
-  cursor: pointer;
-}
-.sign-up3 {
-  position: absolute;
-  top: 628px;
-  left: 586px;
   font-size: var(--font-size-10xl);
   color: var(--color-white);
-  display: inline-block;
-  width: 132px;
-  height: 41px;
+  width: 433px;
+  height: 40px;
+  cursor: pointer;
 }
+
 .riclose-line-icon3 {
   position: absolute;
   top: 151px;
